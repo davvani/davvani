@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me :)
 Hi, I’m David Ani 👋<br>I’m a Product Designer passionate about creating clean and user-friendly mobile and web experiences.<br>I currently work with Figma, Illustrator, and Photoshop, and I’m expanding my skills into mobile development and motion design.<br> My interest in mobile design comes from my drive to build products that not only look great but also solve real problems.
 
 
